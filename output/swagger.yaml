@@ -82,7 +82,7 @@
           "description" : "Inventory item to add",
           "required" : false,
           "schema" : {
-            "$ref" : "#/definitions/InventoryItem"
+            "$ref" : "#/definitions/Customer"
           }
         } ],
         "responses" : {
